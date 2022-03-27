@@ -1,4 +1,4 @@
-a, button {
+a:not(.nav-link), button {
   pointer-events: none;
 }
 
